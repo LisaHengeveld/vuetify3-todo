@@ -12,7 +12,7 @@
         <span class="text-h5">LH</span>
       </v-avatar>
       <div class="text-white text-subtitle-1 font-weight-bold">Lisa Hengeveld</div>
-      <div class="text-white text-subtitle-2">lisahengeveld@gmail.com</div>
+      <div class="text-white text-subtitle-2">gr_hengeveld</div>
       </v-img>
         <v-list nav>
           <v-list-item
